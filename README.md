@@ -4,13 +4,15 @@ This app allows you to find the amount of calories you've burned for a given exe
 
 The first image below shows the main screen, the second shows the list of exercises to select from when the spinner is tapped.
 
+The calorie conversions are based on data for people of 150 lbs.
+
 ## Author
 
 Andre Askarinam ([andreaskari@berkeley.edu](mailto:andreaskari@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Introduction to Calorie Convert] (https://youtu.be/FPvyhvN5tVY)
 
 ## Screenshots
 
