@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         jumping_jack_calories_label = (TextView) findViewById(R.id.textView7);
         jogging_calories_label = (TextView) findViewById(R.id.textView8);
 
+        setTitle("Calorie Convert");
+
 //        String[] exercises = {"Pushups", "Situps", "Squats", "Leg-Lifts", "Planks", "Jumping Jacks", "Pull Ups", "Cycling", "Walking", "Jogging", "Swimming"};
 //        ArrayAdapter<String> adapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_spinner_item, exercises);
         ArrayAdapter adapter = ArrayAdapter.createFromResource(this, R.array.exercises, android.R.layout.simple_spinner_item);
